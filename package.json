@@ -38,7 +38,7 @@
     "@types/underscore": "^1.8.18",
     "@types/validator": "^10.11.0",
     "async-redis": "^1.1.7",
-    "bcrypt": "^3.0.5",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "class-validator": "^0.9.1",
     "compression": "^1.7.4",
